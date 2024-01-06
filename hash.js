@@ -3,7 +3,7 @@
  */
 'use strict';
 
-import crypto from 'crypto';
+import crypto from 'react-native-quick-crypto';
 
 export const MH_SHA_256 = 0x12;
 

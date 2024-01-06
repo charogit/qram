@@ -30,6 +30,7 @@
   ],
   "dependencies": {
     "esm": "^3.2.22",
+    "react-native-quick-crypto": "^0.6.1",
     "web-streams-polyfill": "^2.0.3"
   },
   "devDependencies": {
