@@ -8,9 +8,7 @@
     "test": "cd test && npm run test-node",
     "test-node": "cd test && npm run test-node",
     "test-karma": "cd test && karma start karma.conf.js",
-    "lint": "eslint .",
-    "prepublish": "npm run build",
-    "build": "webpack"
+    "lint": "eslint ."
   },
   "files": [
     "dist/*.js",
